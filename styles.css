@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Petrona:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/014/635/891/original/galaxy-pattern-on-a-dark-space-background-vector.jpg");
+}
+
+h1{
+    color: aliceblue;
+    font-family: "Comic Neue", cursive;
+    font-weight: 500;
+    display: inline-block;
+
+
+
+}
+h3{
+    color: aliceblue;
+    font-family: "Comic Neue", cursive;
+    font-weight: 500;
+    display: inline;
+
+
+}
+
+
+
+hr{
+    color: aliceblue;
+    background-color: aliceblue;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+ul{
+    text-align: center;
+    font-family: "Comic Neue", cursive;
+    font-size: x-large;
+}
+
+blogdiv {
+    padding: 20px;
+    width: 50%;
+    position:relative;
+    text-align: center;
+  }
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+  }
+
+p{
+    color: aliceblue;
+    font-family: "Comic Neue", cursive;
+    font-weight: 400;
+    display: inline;
+
+}
